@@ -1,0 +1,12 @@
+com\groupeisi\scolarite\dto\RoleDto.class
+com\groupeisi\scolarite\dto\UserDto.class
+com\groupeisi\scolarite\entities\User.class
+com\groupeisi\scolarite\controller\UserServlet.class
+com\groupeisi\scolarite\controller\RoleServlet.class
+com\groupeisi\scolarite\service\IRoleDto.class
+com\groupeisi\scolarite\service\IUserDto.class
+com\groupeisi\scolarite\controller\LoginServlet.class
+com\groupeisi\scolarite\controller\list.class
+com\groupeisi\scolarite\service\RoleDtoImpl.class
+com\groupeisi\scolarite\controller\HomeServlet.class
+com\groupeisi\scolarite\service\UserDtoImpl.class
